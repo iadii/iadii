@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mishraaditya3456@gmail.com**
 
-- ⚡ Fun fact **I am debugging code since christ was my friend**
+- ⚡ Fun fact : **I am debugging code since christ was my friend**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

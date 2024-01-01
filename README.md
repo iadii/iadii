@@ -6,6 +6,8 @@
 ```javascript
 while(code || debug){
   console.log('Scratch Head');
+  life--
+  age++
 }
 ```
 

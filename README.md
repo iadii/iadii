@@ -5,7 +5,7 @@
 🌱 I’m currently learning Reactjs, Nodejs <br>📫 How to reach me mishraaditya3456@gmail.com<br>⚡ Fun fact : I am debugging code since christ was my friend
 ```javascript
 while(code || debug){
-  console.log('Scratch Head");
+  console.log('Scratch Head');
 }
 ```
 

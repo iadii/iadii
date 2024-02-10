@@ -9,8 +9,9 @@ const dev = {
   email : "mishraaditya3456@gamil.com",
   portfolio : "https://iadii.github.io/portfolio/",
   isScratchingHead : true,
-  isDrunk : false,
-  isWorkingHard : true,
+  isDrunk : [chai, water],
+  isWorking : true,
+  
 }
 ```
 

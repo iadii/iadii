@@ -6,7 +6,7 @@
 ```javascript
 const dev = {
   name : "Aditya Mishra",
-  email : "mishraaditya3456@gamil.com",
+  email : "mishraaditya3456@gmail.com",
   pronouns : "async/await",
   portfolio : "https://iadii.github.io/portfolio/",
   isScratchingHead : true,

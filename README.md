@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 🌱 I’m currently learning Reactjs, Nodejs <br>📫 How to reach me mishraaditya3456@gmail.com<br>⚡ Fun fact : I am debugging code since christ was my friend
-/*```js
+```js
 const dev = {
   name : "Aditya Mishra",
   email : "mishraaditya3456@gmail.com",
@@ -13,8 +13,8 @@ const dev = {
   drinks : ["chai", "coffee", "water"],
   isWorking : true,
   
-}
-```*/
+} 
+```
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iadii_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-mishra-58722b110/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iadii_) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/iadii) 

@@ -1,27 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Vats</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-# 
-
-<div align="center">
-  <svg
-    role="img"
-    xmlns="http://www.w3.org/2000/svg"
-    viewBox="0 0 24 24"
-    width="24px"
-    height="24px"
-  >
-    <path
-      fill="none"
-      stroke="#000000"
-      stroke-linecap="round"
-      stroke-linejoin="round"
-      stroke-width="2"
-      d="m18 16l4-4l-4-4M6 8l-4 4l4 4m8.5-12l-5 16"
-    />
-  </svg>
-</div>
-About Me:
+# About Me:
 🌱 I’m currently learning expressJS, NodeJS <br>📫 How to reach me mishraaditya3456@gmail.com<br>⚡ Fun fact : I am debugging code since christ was my friend
 ```js
 const dev = {

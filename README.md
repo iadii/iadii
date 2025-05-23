@@ -12,7 +12,7 @@ const dev = {
   isScratchingHead : true,
   drinks : ["chai", "coffee", "water"],
   isWorking : true,
-  techStack : ['js','java','cpp','py','rs','tailwind']  
+  techStack : ['js','java','cpp','py','rs','tailwind','nodejs', 'springboot']  
 } 
 ```
 

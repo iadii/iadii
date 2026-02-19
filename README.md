@@ -5,15 +5,23 @@
 📫 How to reach me mishraaditya3456@gmail.com<br>⚡ Fun fact : I am debugging code since christ was my friend
 ```js
 const dev = {
-  name : "Aditya Mishra",
-  email : "mishraaditya3456@gmail.com",
-  pronouns : "async/await",
-  portfolio : "https://adi-dev-three.vercel.app/",
-  isScratchingHead : true,
-  drinks : ["chai", "coffee", "water"],
-  isWorking : true,
-  techStack : ['js','java','cpp','py','rs','tailwind','nodejs', 'springboot']  
-} 
+  name: "Aditya Mishra",
+  email: "mishraaditya3456@gmail.com",
+  pronouns: "async/await",
+  portfolio: "https://adi-dev-three.vercel.app/",
+  isScratchingHead: true,
+  isWorking: true,
+  drinks: ["chai", "coffee", "water"],
+  techStack: ["js","java","cpp","py","rs","tailwind","nodejs","springboot"],
+  mood: "compiling emotions...",
+  lifeStatus: "under development",
+  superPower: "turning caffeine into scalable systems",
+  weakness: "off-by-one errors",
+  currentArc: "grinding DSA for dominance",
+  debuggingStyle: "console.log until enlightenment",
+  version: "2.1.0-alpha",
+};
+
 ```
 
 ## 🌐 Socials:

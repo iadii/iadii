@@ -8,7 +8,7 @@ const dev = {
   name : "Aditya Mishra",
   email : "mishraaditya3456@gmail.com",
   pronouns : "async/await",
-  portfolio : "[https://adi-dev-three.vercel.app/](https://adi-dev-three.vercel.app/)/",
+  portfolio : "https://adi-dev-three.vercel.app/",
   isScratchingHead : true,
   drinks : ["chai", "coffee", "water"],
   isWorking : true,

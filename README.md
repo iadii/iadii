@@ -16,7 +16,7 @@ const dev = {
   weakness: "off-by-one errors",
   currentArc: "grinding DSA for dominance",
   debuggingStyle: "console.log until enlightenment",
-  version: "2.1.0-alpha",
+  version: "2.1.0,
 };
 
 ```
